@@ -4,9 +4,13 @@
  * @version 6.3.0
  * @description hmmmmm
  * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite 7pNUC9C
 */
 
-:root{
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+
+:root {
   --main-color: #2780e6;
   --hover-color: #1e63b3;
   --success-color: #43b581;
