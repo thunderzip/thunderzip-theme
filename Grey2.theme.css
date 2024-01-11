@@ -3,7 +3,12 @@
  * @author a person
  * @version 6.3.0
  * @description hmmmmm
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite 7pNUC9C
 */
+
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
   --main-color: #2780e6;
@@ -80,5 +85,3 @@
 }
 
 /* Any custom CSS below here */
-
-
