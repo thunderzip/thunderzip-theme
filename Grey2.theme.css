@@ -1,14 +1,10 @@
 /**
  * @name Grey1
  * @author a person
- * @version 6.3.0
+ * @version 3.1
  * @description hmmmmm
- * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
- * @invite 7pNUC9C
 */
 
-@import url(https://cdn.statically.io/gh/Overimagine1/old-discord-font/main/source.min.css);
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
@@ -63,7 +59,7 @@
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
-  --main-font: Whitney;
+  --main-font: gg sans;
   --code-font: Consolas;
   --channels-width: 220px;
   --members-width: 240px;
@@ -86,3 +82,6 @@
 }
 
 /* Any custom CSS below here */
+
+
+
